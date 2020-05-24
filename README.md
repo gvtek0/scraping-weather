@@ -28,6 +28,6 @@ Installing dependencies
 
 > pip install -r requirements.txt
 
-I used pipreqs to create requirements.txt just for this project
+I used pipreqs to create requirements.txt just for this project (first commit to requirements.txt included every module on my system, because I'm wicked smaht)
 
 >pipreqs .\ # .\ because I'm currently dev'ing on a Windows box
