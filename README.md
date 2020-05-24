@@ -1,6 +1,6 @@
 # Scraping-Weather
 
-Simple pythong program for scraping weather data.
+Simple python program for scraping weather data.
 
 Even though it's stupid simple, created an HTML file ("simpletags.html") which went over some of the basics for html tagging, using some of these simple tasks to remind myself how to branch and PR properly on GH. Hey, even professional musicians play scales and arpeggios.
 
