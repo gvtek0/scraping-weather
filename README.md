@@ -27,3 +27,7 @@ Deactivate virtualenv (ALL OS):
 Installing dependencies
 
 > pip install -r requirements.txt
+
+I used pipreqs to create requirements.txt just for this project
+
+>pipreqs .\ # .\ because I'm currently dev'ing on a Windows box
