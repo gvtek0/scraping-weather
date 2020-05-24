@@ -23,3 +23,7 @@ Activate virtualenv (Mac/Linux):
 Deactivate virtualenv (ALL OS):
 
 > deactivate
+
+Installing dependencies
+
+> pip install -r requirements.txt
